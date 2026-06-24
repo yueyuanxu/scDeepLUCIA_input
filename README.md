@@ -1,3 +1,4 @@
+# Example: mm10 Astrocyte chr10
 ### 25bp-resolution epigenomic feature npy file (mm10, astrocyte, chr10)
 ```bash
 python -c "import sys, gzip, numpy, pyBigWig, itertools; from pathlib import Path; print('Package check passed')"
