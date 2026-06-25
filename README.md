@@ -1,4 +1,4 @@
-## Generate input data for [scDeepLUCIA loop prediction](https://github.com/kaistcbfg/scDeepLUCIA)
+## Generate input data for [scDeepLUCIA](https://github.com/kaistcbfg/scDeepLUCIA) loop prediction
 
 Check required python packages:
 ```bash
